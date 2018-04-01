@@ -98,6 +98,7 @@ bot.on("guildMemberAdd", function(member) {
     var games = [
     "A!help | AUSTELBOT V1.2",
     "Développé par XeCrafT",
+        "http://erlealys.net",
     "http://austelclient.net",
     " " + new Date(),
      bot.users.size + " utilisateurs !"
