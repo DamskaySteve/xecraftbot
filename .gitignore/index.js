@@ -42,6 +42,10 @@ bot.on('message', function(message) {
         if(message.content === 'AustelClient') {
             message.reply('<3')
         }
+    
+        if(message.content === 'Yo les gars') {
+            message.reply('Yo man !')
+        }
 
         if(message.content === 'Salut') {
             message.reply('Bonjour')
